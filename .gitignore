@@ -1,0 +1,13 @@
+# 再生成できる成果物（スクリプトから作り直せる）
+renders/
+preview/
+*.mp4
+audio/score.wav
+ec/main.ecproj
+ec/renders/
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+camerawork_cheetsheet.jpeg
